@@ -133,3 +133,4 @@ NB! `OutputType` EXE on .NET Core assemblies is not supported.
 License
 =======
 Checkout the [License](https://github.com/peters/ILRepack.MSBuild.Task/blob/master/LICENSE.md)
+test edit
